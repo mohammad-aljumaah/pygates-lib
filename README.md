@@ -1,5 +1,6 @@
 # PyGates
 
+[![PyPI version](https://img.shields.io/pypi/v/pygates-lib.svg)](https://pypi.org/project/pygates-lib/)
 ![Version](https://img.shields.io/github/v/tag/mohammad-aljumaah/pygates)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](#testing)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
