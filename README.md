@@ -1,7 +1,6 @@
 # PyGates
 
 ![Version](https://img.shields.io/github/v/tag/mohammad-aljumaah/pygates)
-[![Tests](https://github.com/mohammad-aljumaah/pygates/actions/workflows/tests.yml/badge.svg)](https://github.com/mohammad-aljumaah/pygates/actions)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](#testing)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 
@@ -43,7 +42,7 @@ The library is designed with a focus on:
 Clone the repository:
 
 ```bash id="u7x2p1"
-git clone https://github.com/YOUR_USERNAME/pygates.git
+git clone https://github.com/mohammad-aljumaah/pygates.git
 cd pygates
 ```
 
