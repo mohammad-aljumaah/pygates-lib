@@ -187,6 +187,12 @@ Contributions are welcome.
 
 * Open an issue
 * Submit a pull request
+  
+---
+
+## Releases
+
+See: https://github.com/YOUR_USERNAME/pygates/releases
 
 ---
 
