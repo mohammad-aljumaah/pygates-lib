@@ -1,7 +1,7 @@
 # PyGates
 
 [![PyPI version](https://img.shields.io/pypi/v/pygates-lib.svg)](https://pypi.org/project/pygates-lib/)
-![Version](https://img.shields.io/github/v/tag/mohammad-aljumaah/pygates)
+![Version](https://img.shields.io/github/v/tag/mohammad-aljumaah/pygates-lib)
 [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](#testing)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 
@@ -51,7 +51,7 @@ pip install pygates-lib
 ### Install from GitHub (latest development version)
 
 ```bash
-pip install git+https://github.com/mohammad-aljumaah/pygates.git
+pip install git+https://github.com/mohammad-aljumaah/pygates-lib.git
 ```
 
 ---
@@ -61,7 +61,7 @@ pip install git+https://github.com/mohammad-aljumaah/pygates.git
 Clone the repository:
 
 ```bash
-git clone https://github.com/mohammad-aljumaah/pygates.git
+git clone https://github.com/mohammad-aljumaah/pygates-lib.git
 cd pygates
 ```
 
@@ -212,7 +212,7 @@ Contributions are welcome.
 
 ## Releases
 
-See: https://github.com/YOUR_USERNAME/pygates/releases
+See: https://github.com/mohammad-aljumaah/pygates/releases
 
 ---
 
